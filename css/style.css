@@ -97,7 +97,7 @@ a {
 
 .banner {
     height: 600px;
-    background: linear-gradient(rgba(47, 48, 58, 0), rgba(47, 48, 58, 0.4)), url("/images/people/banner-team.jpg") no-repeat center center rgba(196, 196, 196, 1);
+    background: linear-gradient(rgba(47, 48, 58, 0), rgba(47, 48, 58, 0.4)), url("../images/people/banner-team.jpg") no-repeat center center rgba(196, 196, 196, 1);
     background-size: cover;
     display: flex;
     flex-direction: column;
